@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkDomainSwitchAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkDomainSwitchAdapter/6.5.91/AnyThinkDomainSwitchAdapter-6.5.91.zip",
-            checksum: "d32308bf85f286304e36b917b1edb01b999976a265d16626ef2412283590202f"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkDomainSwitchAdapter/10.0.0/AnyThinkDomainSwitchAdapter-10.0.0.zip",
+            checksum: "7206542c60ace67861d6dba11defc5fd13dde542e0b6ca8743d6f59c3ef8886b"
         ),
         .target(
             name: "AnyThinkMediationDomainSwitchAdapterTarget",
